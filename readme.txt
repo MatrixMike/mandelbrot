@@ -1,3 +1,5 @@
+Tue 20 Oct 2020 23:52:17 AEDT 
+for OPTI 
 sudo apt-get install libssl-dev
 sudo apt install linuxbrew-wrapper
 
